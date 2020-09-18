@@ -1,0 +1,21 @@
+form {
+  margin: 24px;
+}
+
+form > label {
+  margin-right: 10px;
+}
+
+input[type="text"], input[type="number"] {
+  width: 70px;
+}
+
+.error {
+  color: red;
+}
+
+hr {
+  width: 50%;
+  text-align: left;
+  margin-left: 0;
+}

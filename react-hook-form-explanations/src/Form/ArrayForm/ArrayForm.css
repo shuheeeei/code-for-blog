@@ -1,0 +1,12 @@
+th {
+  width: 155px;
+}
+
+td > select {
+  width: 100%;
+}
+
+form > section {
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
